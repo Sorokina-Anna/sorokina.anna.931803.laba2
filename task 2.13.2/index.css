@@ -1,0 +1,25 @@
+main{
+	border: 1px solid forestgreen;
+	background-color:aquamarine;
+	display:flex;
+}
+aside{
+	background-color:aquamarine;
+	margin:0;
+}
+.article{
+	background-color:gray;
+	float:right;
+}
+.list{
+	background-color:#ffe5c0;
+	width:130px;
+	height:100px;
+	float:left;
+}
+img{
+	width: 200px;
+	height: 200px;
+    float: right;
+    margin: 0 0 15px 15px;
+   }

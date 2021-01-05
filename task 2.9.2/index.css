@@ -1,0 +1,9 @@
+article {
+    width:600px;
+	background-color:blue;
+	color:white;
+}
+.picture {
+    float: right;
+    margin: 0 0 15px 15px;
+}

@@ -1,0 +1,20 @@
+main{
+	border: 1px solid forestgreen;
+	background-color:aquamarine;
+	display:flex;
+}
+.part1{
+	background-color:aquamarine;
+}
+.part2{
+	background-color:gray;
+	float:right;
+	margin-right:5px;
+}
+.list{
+	background-color:#ffe5c0;
+	margin-right:2px;
+	width:500px;
+	height:100px;
+	float:left;
+}

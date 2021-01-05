@@ -1,0 +1,27 @@
+main{
+	border: 1px solid forestgreen;
+	background-color:aquamarine;
+	display:flex;
+}
+aside{
+	background-color:aquamarine;
+}
+article{
+	background-color:gray;
+}
+.list{
+	background-color:#ffe5c0;
+	width:350px;
+	height:100px;
+	float:left;
+}
+.text{
+	width:50%;
+}
+img{
+	width:50%;
+	height: 50%;
+}
+.part1{
+	display:flex;
+}

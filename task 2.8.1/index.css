@@ -1,0 +1,15 @@
+.first_half {
+    background-color:#ffe5c0;
+	height:90px;
+	width:190px;
+}
+.second_half {
+    background-color:aquamarine;
+	height:110px;
+	width:190px;
+}
+article {
+    background-color: #EAEAEA;
+    margin-left: 189px;
+    margin-top: -200px;
+}

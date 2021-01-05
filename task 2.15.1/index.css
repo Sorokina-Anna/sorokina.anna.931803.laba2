@@ -1,0 +1,52 @@
+div {  
+    background-color:aqua;
+    width:180px;
+    height:100px;
+    margin: 20px; 
+    position: absolute;
+    top: 0px;  
+}
+.block12 {
+    position: absolute;
+    top: 0px;
+    margin-left: 220px;
+}
+.block13 {
+    margin-left: 420px;
+}
+.block14 {
+    margin-left: 620px;
+}
+.block15 {
+    margin-left: 820px;
+}
+.block16 {
+    margin-left: 1020px;
+}
+.block17 {
+    margin-left: 1220px;
+}
+.block18 {
+    margin-left: 1420px;
+}
+.block21 {
+    margin-top: 140px;
+    
+}
+.block22 {
+    margin-top: 140px;
+    margin-left: 220px;
+}
+.block23 {
+    margin-top: 140px;
+    margin-left: 420px;
+}
+.block24 {
+    margin-top: 140px;
+    margin-left: 620px;
+}
+p {
+    position: relative;
+    top: 230px;
+    background-color:#ffe5c0;
+}

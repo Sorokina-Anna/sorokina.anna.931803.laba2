@@ -1,0 +1,27 @@
+.first_half {
+    background-color:#ffe5c0;
+	height:90px;
+    width:190px;
+    position: absolute;
+    top: 10px;
+}
+.second_half {
+    background-color:aquamarine;
+	height:210px;
+    width:190px;
+    
+}
+article {
+    background-color: #EAEAEA;
+    margin-left: 189px;
+    position: absolute;
+    top: 10px;
+    width: 400px;
+}
+footer{
+	background-color:forestgreen;
+	height:100px;
+	position:fixed;
+	bottom:0;
+	width:100%;
+}

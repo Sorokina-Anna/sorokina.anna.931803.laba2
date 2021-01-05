@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding:0;
+}
+header {
+    background-color:#EAEAEA;
+    height:70px;
+    margin-top: -21px;  
+}
+aside {
+    text-align: left;
+    width: 200px;
+    background-color: #C8FC98;
+    margin-top: -1px;
+    padding-left: 10px; 
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+section {
+    margin-left: 225px;
+    margin-top: -625px;
+}
+footer {
+    text-align: center;
+    margin-top: 510px;
+    background-color: black;
+    height: 30px;
+}

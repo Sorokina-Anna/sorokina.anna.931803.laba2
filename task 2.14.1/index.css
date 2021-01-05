@@ -1,0 +1,21 @@
+
+
+main {
+	border: 1px solid forestgreen;
+	background-color:aquamarine;
+	display:flex;
+}
+aside {
+	background-color:aquamarine;
+	margin:0;
+}
+article {
+	background-color:lightgray;
+	float:right;
+}
+.list {
+	background-color:#ffe5c0;
+	width:400px;
+	height:100px;
+	float:left;
+}
